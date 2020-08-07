@@ -6,7 +6,7 @@
 
 :computer: Have you tried turning it off and on again?
 
-I am a backend Engineer, currently based in Shanghai.
+I am a backend engineer, currently based in Shanghai.
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
