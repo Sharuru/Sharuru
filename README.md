@@ -7,8 +7,3 @@
 :computer: Have you tried turning it off and on again?
 
 I am a backend engineer, currently based in Shanghai.
-
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![Sharuru's github stats](https://github-readme-stats.vercel.app/api?username=Sharuru&show_icons=true&theme=dracula)
